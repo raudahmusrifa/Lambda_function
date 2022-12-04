@@ -20,7 +20,8 @@ Repository ini di buat untuk memenuhi tugas mata kuliah Bahasa Pemrograman
 
 Hasilnya akan muncul seperti berikut :
 
-![lambda](https://user-images.githubusercontent.com/115474431/205479282-dbe5490e-f4fe-43de-a502-03aeaff3b9a7.png)
+![lambdahasil](https://user-images.githubusercontent.com/115474431/205482006-71a9176e-d81b-4d89-a45f-7c3435cc5539.png)
+
 
 3. Selanjutnya membuat program crud sederhana 
 
